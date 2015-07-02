@@ -33,3 +33,8 @@ getL( "../test/c7", function ( result ) {
     console.log( result );
 } );
 ```
+
+#### lib/search.js 
+**功能：**在文件或文件夹中搜索指定字符串，后期会提供命令行版本。
+**用法：**
+**示例代码：**
