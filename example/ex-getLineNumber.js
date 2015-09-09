@@ -5,7 +5,7 @@
 var getL = require( "../lib/getLineNumber.js" );
 var colors = require( "colors" );
 
-getL( "../test/cinemaJS", function ( result ) {
+getL( "../test/StarCraft", function ( result ) {
     console.log( colors.green( "===================" ) );
     console.log( result );
     console.log( colors.green( "===================" ) );
